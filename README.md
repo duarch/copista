@@ -8,7 +8,7 @@ This a small Tool to manage your clipboard
 - [ ] Insert and remove element
 - [ ] Store in a section
 - [ ] Drag elements
-- [ ] Renema labels
+- [ ] Rename labels
 - [ ] Playground (Editable area)
 - [ ] Connecting elements
 - [ ] Automated fields (Variables)
