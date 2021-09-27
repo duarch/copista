@@ -7,6 +7,7 @@ This a small Tool to manage your clipboard
 #### TODO
 - [ ] Insert and remove element
 - [ ] Store in a section
+- [ ] Choose time of storage
 - [ ] Drag elements
 - [ ] Rename labels
 - [ ] Playground (Editable area)
